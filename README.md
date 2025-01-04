@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Irvin Neri </a> 👋</h1>
+<h1 align="center">Hola, soy <a href="">Irvin Neri </a> 👋</h1>
 </div>
 <img alt="banner" src="https://github.com/novainc98/novainc98/blob/42055f097e3aceca91705fc5f2e50719f6cc3e09/Banner5.png">
 
@@ -13,7 +13,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makigas) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makigas) 
 
-## Stack:
+## 🚀 Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
  
-## 💻 Mis Videos de YouTube
 
 
 
