@@ -1,9 +1,10 @@
-<div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Irvin Neri </a> 👋</h1>
 </div>
-<img alt="banner" src="https://github.com/novainc98/novainc98/blob/b70aa221f5fad8bd26fdac1d6983885936ea6f32/Banner4.png">
+<img alt="banner" src="https://github.com/user-attachments/assets/1e3d1b34-8171-4a3e-adc9-67b23a35a604">
 
-👨🏻‍💻 Documentando mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
+
+
+👨🏻‍💻 Documento mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
 👨🏻‍🎓 Estudié la carrera de Ingeniería Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), [video](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).<br/> 
 
