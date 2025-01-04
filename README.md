@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy <a href="">Irvin Neri </a> 👋</h1>
 </div>
-<img alt="banner" src="https://github.com/novainc98/novainc98/blob/42055f097e3aceca91705fc5f2e50719f6cc3e09/Banner5.png">
+<img alt="banner" src="https://github.com/novainc98/novainc98/blob/c3884bbce75b6750397ff068543437d47fe231da/Banner6.png">
 
 👨🏻‍💻 Documento mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
@@ -9,9 +9,9 @@
 📷 En mi tiempo libre creo videos sobre tecnología y código en [YouTube](https://www.youtube.com/@novainc98).<br/>
 
 ## 🌐 Encuéntrame en la web:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danirod) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makigas) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makigas) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/irvinneric) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@novainc98) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@irvinneric) 
 
 ## 🚀 Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
