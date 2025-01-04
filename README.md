@@ -1,6 +1,7 @@
 ## Hola, soy Irvin 👋🏼 🇲🇽
-![Tu texto alternativo](ruta/de/la/imagen.png)
 
+
+![Uploading Banner3.png…]()
 
 
 **Contacto**
