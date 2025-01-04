@@ -1,5 +1,7 @@
-## Irvin Neri 👋
-¡Hola¡ soy Irvin desarrollador de java.
+## Hola, soy Irvin 👋🏼 🇲🇽
+![Tu texto alternativo](ruta/de/la/imagen.png)
+
+
 
 **Contacto**
 * Correo electrónico: novain98@gmail.com
