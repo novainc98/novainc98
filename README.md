@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy <a href="">Irvin Neri </a> 👋</h1>
 </div>
-<img alt="banner" src="https://github.com/novainc98/novainc98/blob/c3884bbce75b6750397ff068543437d47fe231da/Banner6.png">
+<img alt="banner" src="https://github.com/novainc98/novainc98/blob/a1855e88efa39c4d70be444a7d10f2673db85a5b/Banner7.png">
 
 👨🏻‍💻 Documento mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
