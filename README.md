@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Irvin Neri </a> 👋</h1>
 </div>
-<img alt="banner" src="https://github.com/novainc98/novainc98/blob/d1ed9e281a8dcd817b12670dff3418c5286c4989/Banner3.png">
+<img alt="banner" src="https://github.com/novainc98/novainc98/blob/b70aa221f5fad8bd26fdac1d6983885936ea6f32/Banner4.png">
 
 👨🏻‍💻 Documentando mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
