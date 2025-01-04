@@ -3,7 +3,7 @@
 </div>
 <img alt="banner" src="https://github.com/novainc98/novainc98/blob/d1ed9e281a8dcd817b12670dff3418c5286c4989/Banner3.png">
 
-👨🏻‍💻 Documentando mi viaje y compartiendo mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
+👨🏻‍💻 Documentando mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
 👨🏻‍🎓 Estudié la carrera de Ingeniería Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), [video](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).<br/> 
 
