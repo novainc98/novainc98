@@ -3,10 +3,11 @@
 </div>
 <img alt="banner" src="https://github.com/novainc98/novainc98/blob/d1ed9e281a8dcd817b12670dff3418c5286c4989/Banner3.png">
 
-👩🏻‍💻Documentando mi viaje y me encanta compartir mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
+👨🏻‍💻 Documentando mi viaje y me encanta compartir mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
 
-👩🏻‍🎓Estudié la carrera de Ingeniería informática en la Universidad del [Instituto Tecnológico de Chilpancingo] ([https://www.facebook.com/TecNMChilpancingo](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==))<br/>
-🎨 En mi tiempo libre creo videos sobre tenología y codigo en YouTube<br/>
+👨🏻‍🎓 Estudié la carrera de Ingeniería Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), [video](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).<br/> 
+
+📷 En mi tiempo libre creo videos sobre tecnología y código en YouTube.<br/>
 
 ## 🌐 Encuéntrame en la web:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makigas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danirod) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makigas) 
