@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Irvin </a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img alt="banner" src="https://github.com/novainc98/novainc98/blob/d1ed9e281a8dcd817b12670dff3418c5286c4989/Banner3.png">
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
