@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 Sobre mi
 <ul>
-Hola mi nombre es Irvin, soy desarrollador de software apasionado en la programación desde muy pequeño, actualmente estoy aprendiendo y mejorando mis habilidades como desarrollador.<br><br>
+Hola mi nombre es Irvin, soy desarrollador de software apasionado en la programación desde muy pequeño. Actualmente estoy aprendiendo y mejorando mis habilidades como desarrollador.<br><br>
 
 👨🏻‍🎓 Estudié la Licenciatura en Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), con enfoque en Ingeniería de Software.<br><br>
 📷 En mi tiempo libre creo videos sobre tecnología y código en YouTube.
