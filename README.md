@@ -1,18 +1,33 @@
-<h1 align="center">Hola, soy <a href="">Irvin Neri </a> 👋</h1>
-</div>
-<img alt="banner" src="https://github.com/novainc98/novainc98/blob/a1855e88efa39c4d70be444a7d10f2673db85a5b/Banner7.png">
+<h1 style="text-align: center;">¡Hola, soy <a href="https://novainc98.github.io">Irvin Neri Chaleno!</a> 👋</h1>
+<!-- </div>
+<img alt="banner" src="https://github.com/novainc98/novainc98/blob/a1855e88efa39c4d70be444a7d10f2673db85a5b/Banner7.png"> -->
 
-👨🏻‍💻 Documento mi viaje y comparto mi experiencia de lo que voy aprendiendo en el mundo de la tecnología.<br/>
+### 👨🏻‍💻 Sobre mi
+<ul>
+Hola mi nombre es Irvin, soy desarrollador de software apasionado en la programación desde muy pequeño, actualmente estoy aprendiendo y mejorando mis habilidades como desarrollador.<br><br>
 
-👨🏻‍🎓 Estudié la carrera de Ingeniería Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), [video](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).<br/> 
+👨🏻‍🎓 Estudié la Licenciatura en Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), con enfoque en Ingeniería de Software.<br><br>
+📷 En mi tiempo libre creo videos sobre tecnología y código en YouTube.
+</ul>
 
-📷 En mi tiempo libre creo videos sobre tecnología y código en [YouTube](https://www.youtube.com/@novainc98).<br/>
 
-## 🌐 Encuéntrame en la web:
+
+
+
+### 📫 Contacto
+No dudes en ponerte en contacto conmigo a través de <a href="https://www.linkedin.com/in/irvinneric/">Linkedin</a> o por <a href="mailto:novainc98@gmail.com">correo electrónico</a>.
+
+
+
+<!-- [video](https://www.instagram.com/reel/DAn9XBYopb5/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==).
+ -->
+
+
+<!-- ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvinneric/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@novainc98) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@novainc98)  -->
 
-## 🚀 Stack:
+<!-- ### 🚀 Stack:
 #### Lenguajes de programación:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,8 +51,6 @@
 
 #### Diseño y organización
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  -->
  
-
-
 
