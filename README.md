@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">¡Hola, soy <a href="https://novainc98.github.io">Irvin Neri Chaleno!</a> 👋</h1>
+<h1 style="text-align: center;">¡Hola, soy <a target="_blank" rel="noreferrer" href="https://novainc98.github.io">Irvin Neri Chaleno!</a> 👋</h1>
 <!-- </div>
 <img alt="banner" src="https://github.com/novainc98/novainc98/blob/a1855e88efa39c4d70be444a7d10f2673db85a5b/Banner7.png"> -->
 
