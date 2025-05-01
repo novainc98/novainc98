@@ -1,4 +1,5 @@
-<h1 style="text-align: center;">¡Hola, soy <a target="_blank" rel="noreferrer" href="https://novainc98.github.io">Irvin Neri Chaleno!</a> 👋</h1>
+<h1 style="text-align: center;">¡Hola, soy <a target="_blank" rel="noopener noreferrer"
+ href="https://novainc98.github.io">Irvin Neri Chaleno!</a> 👋</h1>
 <!-- </div>
 <img alt="banner" src="https://github.com/novainc98/novainc98/blob/a1855e88efa39c4d70be444a7d10f2673db85a5b/Banner7.png"> -->
 
@@ -6,7 +7,8 @@
 <ul>
 Hola mi nombre es Irvin, soy desarrollador de software apasionado en la programación desde muy pequeño. Actualmente estoy aprendiendo y mejorando mis habilidades como desarrollador.<br><br>
 
-👨🏻‍🎓 Estudié la Licenciatura en Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), con enfoque en Ingeniería de Software.<br><br>
+<!-- 👨🏻‍🎓 Estudié la Licenciatura en Informática en el [Instituto Tecnológico de Chilpancingo](https://www.facebook.com/TecNMChilpancingo), con enfoque en Ingeniería de Software.<br><br> -->
+👨🏻‍🎓 Estudié la Licenciatura en Informática en el <a href="https://www.facebook.com/TecNMChilpancingo" target="_blank" rel="noopener noreferrer">Instituto Tecnológico de Chilpancingo</a> con enfoque en Ingeniería de Software.<br><br>
 📷 En mi tiempo libre creo videos sobre tecnología y código en YouTube.
 </ul>
 
@@ -15,7 +17,7 @@ Hola mi nombre es Irvin, soy desarrollador de software apasionado en la programa
 
 
 ### 📫 Contacto
-No dudes en ponerte en contacto conmigo a través de <a href="https://www.linkedin.com/in/irvinneric/">Linkedin</a> o por <a href="mailto:novainc98@gmail.com">correo electrónico</a>.
+No dudes en ponerte en contacto conmigo a través de <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/irvinneric/">Linkedin</a> o por <a href="mailto:novainc98@gmail.com">correo electrónico</a>.
 
 
 
